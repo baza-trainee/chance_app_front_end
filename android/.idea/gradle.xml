@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <compositeConfiguration>
+          <compositeBuild compositeDefinitionSource="SCRIPT">
+            <builds>
+              <build path="/Library/flutter/packages/flutter_tools/gradle" name="gradle">
+                <projects>
+                  <project path="/Library/flutter/packages/flutter_tools/gradle" />
+                </projects>
+              </build>
+            </builds>
+          </compositeBuild>
+        </compositeConfiguration>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="jbr-17" />
+        <option name="modules">
+          <set>
+            <option value="/Library/flutter/packages/flutter_tools/gradle" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/app_links-3.5.1/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/cloud_firestore-4.15.8/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/connectivity_plus-5.0.2/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/device_info_plus-9.1.2/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/firebase_auth-4.17.8/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/firebase_core-2.27.0/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/firebase_crashlytics-3.4.18/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/flutter_background_service_android-6.2.2/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/flutter_fgbg-0.3.0/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/flutter_local_notifications-17.0.0/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/flutter_native_splash-2.4.0/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/flutter_plugin_android_lifecycle-2.0.17/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/flutter_secure_storage-9.0.0/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/flutter_timezone-1.0.8/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/fluttertoast-8.2.4/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/geolocator_android-4.5.4/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/google_api_headers-3.8.3/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/google_maps_flutter_android-2.7.0/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/google_mobile_ads-4.0.0/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/google_sign_in_android-6.1.22/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/in_app_purchase_android-0.3.2/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/libphonenumber_plugin-0.3.3/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/package_info_plus-5.0.1/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/path_provider_android-2.2.2/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/pdfx-2.6.0/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/permission_handler_android-12.0.5/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/shared_preferences_android-2.2.1/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/url_launcher_android-6.3.0/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/webview_flutter_android-3.16.0/android" />
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>587357455921-fdue5dh2afv4b337qdn3jaemosl2th1a.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.587357455921-fdue5dh2afv4b337qdn3jaemosl2th1a</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>587357455921-b2t3r6390999b5ko8a3p98itnf41th1d.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDxsvs4Lj8D2Xa7qzBnME7rAAkCM48XUQc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>587357455921</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.chanceapp.chanceApp</string>
+	<key>PROJECT_ID</key>
+	<string>chance-bab22</string>
+	<key>STORAGE_BUCKET</key>
+	<string>chance-bab22.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:587357455921:ios:bb6c7f958f187aa5107710</string>
+	<key>DATABASE_URL</key>
+	<string>https://chance-bab22-default-rtdb.europe-west1.firebasedatabase.app</string>
+</dict>
+</plist>

@@ -1,0 +1,79 @@
+{
+  "project_info": {
+    "project_number": "587357455921",
+    "firebase_url": "https://chance-bab22-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "chance-bab22",
+    "storage_bucket": "chance-bab22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587357455921:android:7c649ed9b6dd5cda107710",
+        "android_client_info": {
+          "package_name": "com.chance_app.chance_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "587357455921-cnp81tu0njpkh1q8b6jkomhd43tmhir2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chance_app.chance_app",
+            "certificate_hash": "8ef8d7444120a83b7f886f559941759a8f50d1c9"
+          }
+        },
+        {
+          "client_id": "587357455921-hvfrgm33l656vck69s2rq8af9i8au9g3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chance_app.chance_app",
+            "certificate_hash": "37d5be5d1b5dc799b82105887f17a3022680f48c"
+          }
+        },
+        {
+          "client_id": "587357455921-ke4f23g90qaoegkmkc9bh9jtsqdt0o84.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chance_app.chance_app",
+            "certificate_hash": "5281ab19adf050495200badb443f36c966b3592f"
+          }
+        },
+        {
+          "client_id": "587357455921-sudnbce0c2lfmdgd244dbfn1j2vr24gt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chance_app.chance_app",
+            "certificate_hash": "8f193ee0f8406675eb2255071cec54e6c60e466b"
+          }
+        },
+        {
+          "client_id": "587357455921-a821j295lsegn88f9704mraajbfmbs1l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCMWNdJ7o2-4XXLe6fCWWRMlyR3iIBQqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "587357455921-55s1sjrp3qk7lggf508c26k59r2e6n4c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "587357455921-fdue5dh2afv4b337qdn3jaemosl2th1a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.chanceapp.chanceApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
